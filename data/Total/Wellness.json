@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Beginner Yoga Tutorial- 300+ HD digital video tutorials for everyday practice",
+    "price": "48.99",
+    "newPrice": "45.99",
+    "imgSrc": "/images/total/wellness/1.png"
+  },
+  {
+    "title": "Champions Mindset- Book on Practical Insights and Strategies for Success",
+    "price": "25.99",
+    "newPrice": "24.99",
+    "imgSrc": "/images/total/wellness/2.png"
+  },
+  {
+    "title": "CineXperience Monthly Movie Pass",
+    "price": "99.00",
+    "imgSrc": "/images/total/wellness/3.png"
+  },
+  {
+    "title": "MusicMaestro- Learn to Play Guitar: A Step-by-Step Guide for Beginners",
+    "price": "27.99",
+    "newPrice": "25.99",
+    "imgSrc": "/images/total/wellness/4.png"
+  }
+]
